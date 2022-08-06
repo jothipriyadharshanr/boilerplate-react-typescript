@@ -22,7 +22,9 @@
     "rules": {
         "react/react-in-jsx-scope": "off",
         "camelcase": "error",
-        "spaced-comment": "error",
+        "spaced-comment": ["error", "always", {
+            "markers": ["/"]
+            }], // https://github.com/facebook/create-react-app/issues/6560#issuecomment-524688843
         "quotes": ["error", "single"],
         "no-duplicate-imports": "error"
     },

@@ -1,3 +1,5 @@
+Full Setup Ref: [Here](https://blog.devgenius.io/eslint-prettier-typescript-and-react-in-2022-e5021ebca2b1)
+Prettier Config: [Here](https://khalilstemmler.com/blogs/tooling/prettier/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
